@@ -9,7 +9,7 @@
 # Exercise 1
 1. Get data from this link: https://www.jobindex.dk/jobsoegning/it/systemudvikling/danmark?q=python
 2. Using BeautifulSoup, get all job ads and find the ad with the longest description (hint: PaidJob)
-3. Find the description with the most occurences of the word "machine
+3. Find the description with the most occurences of the word "machine"
 
 # Exercise 2
 1. Use regular expressions to find the number of jobs with a 5 star rating and their names
